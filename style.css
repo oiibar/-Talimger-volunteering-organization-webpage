@@ -298,6 +298,10 @@ body.lock{
 	background: #fca311;
 	transition: .1s;
 }
+.hero__btn:visited {
+	border: 1px solid #000;
+	background: transparent;
+}
 .block3 {
 	grid-area: 2 / 2 / 3 / 3;
 }
